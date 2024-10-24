@@ -1,0 +1,50 @@
+Query Expresion List: ['cad', '|', 'text']
+Stem Elements['cad', 'text']
+
+Procesamiento 1
+Stack Temp: []
+Expresion Postfijo: ['cad']
+
+
+Procesamiento 2
+Stack Temp: ['|']
+Expresion Postfijo: ['cad']
+
+
+Procesamiento 3
+Stack Temp: []
+Expresion Postfijo: ['cad', 'text', '|']
+
+Expresion Postfijo Final: ['cad', 'text', '|']
+
+Procesamiento de la consulta:
+
+'cad': ['ejemplo_10.txt', 'ejemplo_11.txt', 'ejemplo_12.txt', 'ejemplo_13.txt', 'ejemplo_14.txt', 'ejemplo_15.txt', 'ejemplo_16.txt', 'ejemplo_17.txt', 'ejemplo_6.txt', 'ejemplo_7.txt', 'ejemplo_8.txt', 'ejemplo_9.txt']
+
+'text': ['ejemplo_1.txt', 'ejemplo_2.txt', 'ejemplo_3.txt', 'ejemplo_4.txt', 'ejemplo_5.txt']
+
+Operador || (or) seleccionado
+
+	['ejemplo_10.txt', 'ejemplo_11.txt', 'ejemplo_12.txt', 'ejemplo_13.txt', 'ejemplo_14.txt', 'ejemplo_15.txt', 'ejemplo_16.txt', 'ejemplo_17.txt', 'ejemplo_6.txt', 'ejemplo_7.txt', 'ejemplo_8.txt', 'ejemplo_9.txt'] ∨ ['ejemplo_1.txt', 'ejemplo_2.txt', 'ejemplo_3.txt', 'ejemplo_4.txt', 'ejemplo_5.txt']
+
+	['ejemplo_1.txt', 'ejemplo_10.txt', 'ejemplo_11.txt', 'ejemplo_12.txt', 'ejemplo_13.txt', 'ejemplo_14.txt', 'ejemplo_15.txt', 'ejemplo_16.txt', 'ejemplo_17.txt', 'ejemplo_2.txt', 'ejemplo_3.txt', 'ejemplo_4.txt', 'ejemplo_5.txt', 'ejemplo_6.txt', 'ejemplo_7.txt', 'ejemplo_8.txt', 'ejemplo_9.txt']
+
+Documentos que satisfacen la consulta:
+
+	> Documento 1 : ejemplo_1.txt
+	> Documento 2 : ejemplo_10.txt
+	> Documento 3 : ejemplo_11.txt
+	> Documento 4 : ejemplo_12.txt
+	> Documento 5 : ejemplo_13.txt
+	> Documento 6 : ejemplo_14.txt
+	> Documento 7 : ejemplo_15.txt
+	> Documento 8 : ejemplo_16.txt
+	> Documento 9 : ejemplo_17.txt
+	> Documento 12 : ejemplo_2.txt
+	> Documento 14 : ejemplo_3.txt
+	> Documento 15 : ejemplo_4.txt
+	> Documento 16 : ejemplo_5.txt
+	> Documento 17 : ejemplo_6.txt
+	> Documento 18 : ejemplo_7.txt
+	> Documento 19 : ejemplo_8.txt
+	> Documento 20 : ejemplo_9.txt

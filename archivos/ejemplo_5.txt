@@ -1,0 +1,6 @@
+Corpus, plural corpora; Una colección de datos lingüísticos,
+ya sea compilados como textos escritos o como una transcripción de habla grabada.
+El propósito principal de un corpus es verificar una hipótesis sobre lenguaje - por ejemplo,
+para determinar cómo el uso de un sonido, palabra o construcción sintáctica particular varía. La lingüística
+corpus lidia con los principios y práctica de usar corpora en el estudio del lenguaje. Un corpus computadora es un gran cuerpo de textos legibles para una máquina.
+( Crystal, David. 1992. An Encyclopedic Dictionary of Language and Languages. Oxford: Blackwell.)
